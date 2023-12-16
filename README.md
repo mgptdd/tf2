@@ -1,4 +1,4 @@
-Updated with December 8, 2023 Patch
+Updated with December 15, 2023 Patch
 
 Changes:
 
