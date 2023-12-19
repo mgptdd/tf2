@@ -1,6 +1,6 @@
-Updated with December 15, 2023 Patch
+Updated with December 18, 2023 Patch
 
-Changes:
+Main changes:
 
 tf_english: https://github.com/mgptdd/tf2/commit/1caf486a5d56eaebb2122d6577a469d1774a1927
 
